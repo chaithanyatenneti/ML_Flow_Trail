@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WIP/End%20to%20End%20Projects/ML_Flow/mlruns/0/73486f6882144054bbee8ec6d05a1dbf/artifacts
+end_time: 1728638410200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73486f6882144054bbee8ec6d05a1dbf
+run_name: popular-sow-902
+run_uuid: 73486f6882144054bbee8ec6d05a1dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728638406480
+status: 3
+tags: []
+user_id: chait

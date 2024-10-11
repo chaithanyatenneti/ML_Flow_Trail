@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WIP/End%20to%20End%20Projects/ML_Flow/mlruns/0/9a71b702f30f4213a4437877c459766e/artifacts
+end_time: 1728638068947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a71b702f30f4213a4437877c459766e
+run_name: trusting-wren-388
+run_uuid: 9a71b702f30f4213a4437877c459766e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728638065012
+status: 3
+tags: []
+user_id: chait

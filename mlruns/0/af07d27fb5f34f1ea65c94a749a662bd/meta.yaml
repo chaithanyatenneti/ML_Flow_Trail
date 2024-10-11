@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WIP/End%20to%20End%20Projects/ML_Flow/mlruns/0/af07d27fb5f34f1ea65c94a749a662bd/artifacts
+end_time: 1728638726846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af07d27fb5f34f1ea65c94a749a662bd
+run_name: salty-snail-567
+run_uuid: af07d27fb5f34f1ea65c94a749a662bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728638723252
+status: 3
+tags: []
+user_id: chait

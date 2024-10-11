@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WIP/End%20to%20End%20Projects/ML_Flow/mlruns/0/a1f4817429844fcab2e09d442860258b/artifacts
+end_time: 1728639001441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f4817429844fcab2e09d442860258b
+run_name: zealous-ox-202
+run_uuid: a1f4817429844fcab2e09d442860258b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728638997688
+status: 3
+tags: []
+user_id: chait
